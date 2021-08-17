@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+body {
+    padding: 0 1rem;
+    max-width: 30rem;
+    margin: 0 auto;
+}
+
+form {
+    border: 1px solid #f5f5f5;
+    padding: 1rem;
+}
+
+img {
+    margin: 1rem 0;
+}
